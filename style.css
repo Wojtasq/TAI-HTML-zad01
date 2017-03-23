@@ -1,0 +1,19 @@
+div {
+  text-align: center;
+  position: relative;
+  width: 400px;
+  height: 300px;
+  margin: auto;
+}
+.in_A, .in_B, .in_C, .out_S, .out_C
+{
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+
+.in_A {left: 40px; top: 15px;}
+.in_B {left: 40px; top: 30px;}
+.in_C {left: 40px; top: 61px;}
+.out_S {left: 335px; top: 38;}
+.out_C {left: 350px; top: 127px;}
